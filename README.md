@@ -6,6 +6,8 @@ Cervical cancer is the fourth most common type of cancer among women in the worl
   
 __Dataset__  
   
-https://www.kaggle.com/loveall/cervical-cancer-risk-classification  
+https://github.com/jisong316/cancer_classification/blob/master/cancer.csv  
+
+
   
 
